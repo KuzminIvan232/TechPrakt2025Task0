@@ -1,0 +1,7 @@
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\bin\Debug\Project1.exe.config
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\bin\Debug\Project1.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\bin\Debug\Project1.pdb
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\obj\Debug\Project1.exe
+C:\Users\ikuzm\OneDrive\Рабочий стол\Политех\Практика\2 курс 1 семестр\Програма\Task1\Project1\obj\Debug\Project1.pdb
